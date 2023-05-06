@@ -36,7 +36,7 @@ const USER_CONFIG = {
     {
       name: '豪总',
       id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
-      useTemplateId:'l8hUGhbj7mmQjSTGUzlEfNslzFQoHcqMTXWoPOg2T7c',
+      useTemplateId:'zXln8TVBMBJMg3jkLRqGFFXchWfx6zzNbO030dic1nM',
       province: '浙江',
       city: '杭州',
     },
