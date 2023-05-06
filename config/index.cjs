@@ -1,6 +1,6 @@
 /* eslint-disable */
 const USER_CONFIG = {
-USE_PASSAGE: 'push-deer',
+USE_PASSAGE: 'wechat-test',
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx3b68feab4143d7cd',
   // 使用微信测试号：公众号APP_SECRET
