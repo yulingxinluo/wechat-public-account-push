@@ -36,14 +36,14 @@ const USER_CONFIG = {
     {
       name: '豪总',
       id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
-      useTemplateId:'zXln8TVBMBJMg3jkLRqGFFXchWfx6zzNbO030dic1nM',
+      useTemplateId:'ihqiW-y-Adq8LoqEij-4Q7eJ3P2TCylFbPCFyvBGsZU',
       province: '浙江',
       city: '杭州',
     },
     {
       name: '杨胖纸',
       id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
-      useTemplateId:'LBc9Jua3PeBvjglbbnEwm-lWkuQSeqFEi9asMIlZTJg',
+      useTemplateId:'	MO-UHBMZD0d_Qc3bdAUfPTgLNO7Cmrc_SPPlVSbyeLI',
       province: '浙江',
       city: '杭州',
     },
