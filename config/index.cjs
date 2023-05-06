@@ -33,6 +33,30 @@ const USER_CONFIG = {
         { keyword: 'marry_day', date: '2023-01-28' },
       ],
     },
+    {
+      name: '豪总',
+      id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
+      useTemplateId:'l8hUGhbj7mmQjSTGUzlEfNslzFQoHcqMTXWoPOg2T7c',
+      province: '浙江',
+      city: '杭州',
+      festivals: [
+        {
+          type: '*生日', name: '豪总生日', year: '2000', date: '11-30',
+        },
+      ],
+    },
+    {
+      name: '杨胖纸',
+      id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
+      useTemplateId:'LBc9Jua3PeBvjglbbnEwm-lWkuQSeqFEi9asMIlZTJg',
+      province: '浙江',
+      city: '杭州',
+      festivals: [
+        {
+          type: '*生日', name: '杨胖纸生日', year: '1992', date: '09-08',
+        },
+      ],
+    },
   ],
   CALLBACK_TEMPLATE_ID:'eDN4m2cjoTrsXZWXVh8zLy39pN5xjcroVvqbYN4zF2Y',
 
