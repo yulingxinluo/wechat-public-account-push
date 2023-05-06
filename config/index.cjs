@@ -15,25 +15,21 @@ const USER_CONFIG = {
 
   USERS: [
     {
-      name: '宝贝',
+      name: '阿鱼',
       id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
       useTemplateId:'Rbyd1UBtua2sVUT-uHRMuyjgyj6nFQxj_9_sGvf81M0',
       province: '浙江',
       city: '杭州',
       festivals: [
         {
-          type: '*生日', name: '宝贝', year: '1998', date: '09-15',
+          type: '*生日', name: '阿鱼生日', year: '1998', date: '09-15',
         },
         {
-          type: '生日', name: '宝贝', year: '1998', date: '11-03',
-        },
-        {
-          type: '节日', name: '相识纪念日', year: '2021', date: '01-26',
+          type: '*生日', name: '阿鱼的狗腿子', year: '1994', date: '08-26',
         },
       ],
       customizedDateList: [
         { keyword: 'love_day', date: '2021-01-26' },
-        // 订婚纪念日
         { keyword: 'marry_day', date: '2023-01-28' },
       ],
     },
