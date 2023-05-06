@@ -17,7 +17,7 @@ const USER_CONFIG = {
     {
       name: '阿鱼',
       id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
-      useTemplateId:'Rbyd1UBtua2sVUT-uHRMuyjgyj6nFQxj_9_sGvf81M0',
+      useTemplateId:'Nm53xTb5oq3lRDeAqMjx25U5JBFAOzs9A_xK2Fagpa0',
       province: '浙江',
       city: '杭州',
       festivals: [
