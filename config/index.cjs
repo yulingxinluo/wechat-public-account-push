@@ -16,7 +16,7 @@ USE_PASSAGE: 'push-deer',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '6OEiZNy4SzDiPyLGDkcgbsr3re298PNT6IP3lU8fGSg',
+      useTemplateId:'6OEiZNy4SzDiPyLGDkcgbsr3re298PNT6IP3lU8fGSg',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -42,7 +42,7 @@ USE_PASSAGE: 'push-deer',
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'eDN4m2cjoTrsXZWXVh8zLy39pN5xjcroVvqbYN4zF2Y',
+  CALLBACK_TEMPLATE_ID:'eDN4m2cjoTrsXZWXVh8zLy39pN5xjcroVvqbYN4zF2Y',
 
   CALLBACK_USERS: [
     {
