@@ -16,8 +16,8 @@ const USER_CONFIG = {
   USERS: [
     {
       name: '阿鱼',
-      id: 'oZ4U665a4pTz7iZmdRPFnQh98dQc',
-      useTemplateId:'cDtQM_iiNtwUPn1NRtFRD_FqRLuXhODlTzhBa-h5RiY',
+      id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
+      useTemplateId:'FWMrfgcvyBXYjyI4l3zq6YtZMsbEM3zFFyGrnul0EPg',
       province: '浙江',
       city: '杭州',
       festivals: [
@@ -32,20 +32,6 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2021-01-26' },
         { keyword: 'marry_day', date: '2023-01-28' },
       ],
-    },
-    {
-      name: '豪总',
-      id: 'oZ4U66-DPNwHl5mEJ_1sUCAQhPB8',
-      useTemplateId:'ihqiW-y-Adq8LoqEij-4Q7eJ3P2TCylFbPCFyvBGsZU',
-      province: '浙江',
-      city: '杭州',
-    },
-    {
-      name: '杨胖纸',
-      id: 'oZ4U66yloi138FIJGy_na6bWtlgA',
-      useTemplateId:'AU2GsB2UzS41NHRjD-N9NSvrQffoP8GNZGceAfNYeG0',
-      province: '浙江',
-      city: '杭州',
     },
   ],
   CALLBACK_TEMPLATE_ID:'eDN4m2cjoTrsXZWXVh8zLy39pN5xjcroVvqbYN4zF2Y',
