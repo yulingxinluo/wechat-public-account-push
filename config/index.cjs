@@ -16,7 +16,7 @@ const USER_CONFIG = {
   USERS: [
     {
       name: '阿鱼',
-      id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
+      id: 'oZ4U665a4pTz7iZmdRPFnQh98dQc',
       useTemplateId:'FWMrfgcvyBXYjyI4l3zq6YtZMsbEM3zFFyGrnul0EPg',
       province: '浙江',
       city: '杭州',
@@ -35,14 +35,14 @@ const USER_CONFIG = {
     },
     {
       name: '豪总',
-      id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
+      id: 'oZ4U66-DPNwHl5mEJ_1sUCAQhPB8',
       useTemplateId:'HsVGWSH6z-693uKdX5668vWQpjk_P8vdzlAk3LCyIFA',
       province: '浙江',
       city: '杭州',
     },
     {
       name: '杨胖纸',
-      id: 'oZ4U66_o4IzfKsRzARPkX8Lv2sBo',
+      id: 'oZ4U66yloi138FIJGy_na6bWtlgA',
       useTemplateId:'PwBAgUP2PMUiUuQ1lII0FNCIa3n94UqFbGEBovE-G8Q',
       province: '浙江',
       city: '杭州',
