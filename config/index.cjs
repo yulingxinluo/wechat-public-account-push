@@ -46,7 +46,6 @@ const USER_CONFIG = {
       province: '浙江',
       city: '杭州',
     },
-    },
   ],
   CALLBACK_TEMPLATE_ID:'eDN4m2cjoTrsXZWXVh8zLy39pN5xjcroVvqbYN4zF2Y',
 
